@@ -1,6 +1,6 @@
 def greeting(name)
   puts "Hello, my name is #{name}"
-  
+end
 
 
 
